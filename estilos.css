@@ -1,0 +1,42 @@
+body{
+  background-image: url(https://i.pinimg.com/736x/76/9e/c8/769ec8a2804db54a8a367a3ab2601917.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  background-attachment: fixed;
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+#columna1 {
+  position:absolute;
+  top:120px;
+  left:100px;
+  width:220px;
+  margin-top:10px;
+  background-color:#1f7936;
+}
+
+#columna2 {
+  margin-left:320px;
+  margin-right:200px;
+  margin-top:120px;
+  background-color:#4a5aa1;
+}
+
+p { 
+  padding: 8px;
+  border-radius: 10px;
+  color: white;
+  font-family: Avenir;
+}
+
+p0 { 
+  padding: 8px;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-family: Avenir;
+}
+    
